@@ -1,0 +1,49 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+23:"ViewportBoundary"
+24:I[97367,["$4"],"$23"]
+25:"MetadataBoundary"
+26:I[97367,["$4"],"$25"]
+27:"$Sreact.suspense"
+28:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","section",null,{"className":"chapter chapter--night page-head","data-tone":"dark","children":["$","div",null,{"className":"container","children":[["$","h1",null,{"children":"工程案例"}],["$","p",null,{"className":"lead","children":"按业主类别整理的供货项目名单。"}]]}]}],["$","section",null,{"className":"chapter chapter--paper section","data-tone":"light","children":["$","div",null,{"className":"container","children":[["$","div",null,{"className":"types","children":[["$","figure","/photos/zhengzhou-xinzheng-t2.jpg",{"children":[["$","img",null,{"src":"/photos/zhengzhou-xinzheng-t2.jpg","alt":"郑州新郑国际机场二号航站楼出发层","width":1800,"height":1200,"loading":"lazy"}],["$","figcaption",null,{"children":[["$","h3",null,{"children":"郑州新郑国际机场"}],["$","p",null,{"children":"二号航站楼"}]]}]]}],["$","figure","/photos/guangzhou-baiyun-t2.jpg",{"children":[["$","img",null,{"src":"/photos/guangzhou-baiyun-t2.jpg","alt":"广州白云国际机场二号航站楼内部","width":1920,"height":1280,"loading":"lazy"}],["$","figcaption",null,{"children":[["$","h3",null,{"children":"广州白云国际机场"}],["$","p",null,{"children":"二号航站楼"}]]}]]}],["$","figure","/photos/xuchang-east-station.jpg",{"children":[["$","img",null,{"src":"/photos/xuchang-east-station.jpg","alt":"许昌东站站台","width":1920,"height":1440,"loading":"lazy"}],["$","figcaption",null,{"children":[["$","h3",null,{"children":"许昌东站"}],["$","p",null,{"children":"郑万高铁"}]]}]]}],["$","figure","/photos/changsha-airport-t2.jpg",{"children":[["$","img",null,{"src":"/photos/changsha-airport-t2.jpg","alt":"长沙黄花国际机场二号航站楼","width":1920,"height":1200,"loading":"lazy"}],["$","figcaption",null,{"children":[["$","h3",null,{"children":"长沙黄花国际机场"}],["$","p",null,{"children":"二号航站楼"}]]}]]}],["$","figure","/photos/zhengzhou-metro-line1.jpg",{"children":[["$","img",null,{"src":"/photos/zhengzhou-metro-line1.jpg","alt":"郑州地铁 1 号线郑州火车站站台","width":1800,"height":1200,"loading":"lazy"}],["$","figcaption",null,{"children":[["$","h3",null,{"children":"郑州地铁 1 号线"}],["$","p",null,{"children":"郑州火车站站"}]]}]]}],["$","figure","/photos/taiyuan-wusu-t1.jpg",{"children":[["$","img",null,{"src":"/photos/taiyuan-wusu-t1.jpg","alt":"太原武宿国际机场一号航站楼内部","width":1920,"height":1440,"loading":"lazy"}],["$","figcaption",null,{"children":[["$","h3",null,{"children":"太原武宿国际机场"}],["$","p",null,{"children":"一号航站楼"}]]}]]}]]}],["$","div",null,{"className":"project-list","children":[["$","section","商业综合体",{"aria-labelledby":"g-商业综合体","children":[["$","h3",null,{"id":"g-商业综合体","children":"商业综合体"}],["$","ul",null,{"children":[["$","li","上海周浦万达广场",{"children":"上海周浦万达广场"}],["$","li","中原万达广场",{"children":"中原万达广场"}],["$","li","沈阳实体万达广场",{"children":"沈阳实体万达广场"}],["$","li","安阳万达广场",{"children":"安阳万达广场"}],["$","li","乌海万达广场",{"children":"乌海万达广场"}],["$","li","新乡万达",{"children":"新乡万达"}],["$","li","鹤壁万达",{"children":"鹤壁万达"}],["$","li","青岛黄岛万达",{"children":"青岛黄岛万达"}],["$","li","贵州六盘水万达",{"children":"贵州六盘水万达"}],["$","li","济南万达",{"children":"济南万达"}],["$","li","黄冈万达广场",{"children":"黄冈万达广场"}],["$","li","淮北万达广场",{"children":"淮北万达广场"}],["$","li","太原万达广场",{"children":"太原万达广场"}],["$","li","日照万达广场",{"children":"日照万达广场"}],["$","li","山西运城万达内装",{"children":"山西运城万达内装"}],["$","li","滕州万达",{"children":"滕州万达"}]]}]]}],["$","section","地产",{"aria-labelledby":"g-地产","children":[["$","h3",null,{"id":"g-地产","children":"地产"}],["$","ul",null,{"children":[["$","li","洛阳建业",{"children":"洛阳建业"}],["$","li","漯河建业",{"children":"漯河建业"}],["$","li","建业凯旋广场",{"children":"建业凯旋广场"}],["$","li","台前建业城",{"children":"台前建业城"}],["$","li","建业百城天地综合体",{"children":"建业百城天地综合体"}],["$","li","建业只有戏之国",{"children":"建业只有戏之国"}],["$","li","建邺春天花园",{"children":"建邺春天花园"}],["$","li","建业 J18",{"children":"建业 J18"}]]}]]}],["$","section","机场",{"aria-labelledby":"g-机场","children":[["$","h3",null,{"id":"g-机场","children":"机场"}],["$","ul",null,{"children":[["$","li","郑州新郑国际机场",{"children":"郑州新郑国际机场"}],["$","li","广州白云国际机场二号航站楼",{"children":"广州白云国际机场二号航站楼"}],["$","li","长沙黄花国际机场",{"children":"长沙黄花国际机场"}],["$","li","太原武宿国际机场",{"children":"太原武宿国际机场"}],["$","li","日照机场",{"children":"日照机场"}],["$","li","郑州机场公安楼",{"children":"郑州机场公安楼"}],["$","li","五大连池机场",{"children":"五大连池机场"}]]}]]}],["$","section","高铁与轨道交通",{"aria-labelledby":"g-高铁与轨道交通","children":[["$","h3",null,{"id":"g-高铁与轨道交通","children":"高铁与轨道交通"}],["$","ul",null,{"children":[["$","li","许昌东站",{"children":"许昌东站"}],["$","li","郑州轨道交通 1 号线",{"children":"郑州轨道交通 1 号线"}],["$","li","郑州地铁 2 号线",{"children":"郑州地铁 2 号线"}],["$","li","郑州地铁 5 号线",{"children":"郑州地铁 5 号线"}],["$","li","长株潭城际铁路",{"children":"长株潭城际铁路"}]]}]]}],["$","section","医院",{"aria-labelledby":"g-医院","children":[["$","h3",null,{"id":"g-医院","children":"医院"}],["$","ul",null,{"children":[["$","li","邢台市眼科医院",{"children":"邢台市眼科医院"}],["$","li","杭州中医院",{"children":"杭州中医院"}],["$","li","解放军总医院附属医院",{"children":"解放军总医院附属医院"}],["$","li","盘锦市中心医院",{"children":"盘锦市中心医院"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]]}]]}]]}]}],"$L1f"],["$L20"],"$L21"]}],"p":"$@22","v":null,"s":"$9"}}]]
+2:[["children",{"s":"projects","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(zh)","h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L24",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L26",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$27",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"工程案例 · 鑫泰铝业"}],["$","meta","1",{"name":"description","content":"按业主类别整理的供货项目名单。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L28","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@29","v":null,"s":"$9"}},"a":"$@2a","u":"$@2b","b":"miW8TFvMPgRvEwP68_VGt"}
+2c:I[97367,["$4"],"OutletBoundary"]
+b:["$","li","青山区普仁医院",{"children":"青山区普仁医院"}]
+c:["$","li","郑州市人民医院",{"children":"郑州市人民医院"}]
+d:["$","li","河南省妇幼保健院",{"children":"河南省妇幼保健院"}]
+e:["$","li","齐鲁医院",{"children":"齐鲁医院"}]
+f:["$","li","郑州市第九人民医院",{"children":"郑州市第九人民医院"}]
+10:["$","li","大理学院附属医院",{"children":"大理学院附属医院"}]
+11:["$","li","西安市结核病医院",{"children":"西安市结核病医院"}]
+12:["$","li","解放军第 91 中心医院",{"children":"解放军第 91 中心医院"}]
+13:["$","li","山西医科大学第二医院",{"children":"山西医科大学第二医院"}]
+14:["$","li","湘雅常德医院",{"children":"湘雅常德医院"}]
+15:["$","li","邓州市第三人民医院",{"children":"邓州市第三人民医院"}]
+16:["$","li","日照东港医院",{"children":"日照东港医院"}]
+17:["$","li","河北省儿童医院",{"children":"河北省儿童医院"}]
+18:["$","li","济南儿童医院",{"children":"济南儿童医院"}]
+19:["$","li","汝南中医院",{"children":"汝南中医院"}]
+1a:["$","li","淄博老中心医院",{"children":"淄博老中心医院"}]
+1b:["$","li","商丘市传染病医院",{"children":"商丘市传染病医院"}]
+1c:["$","li","濮阳县医院",{"children":"濮阳县医院"}]
+1d:["$","li","洛阳儿童妇幼保健医院",{"children":"洛阳儿童妇幼保健医院"}]
+1e:["$","li","郑大第二附属医院",{"children":"郑大第二附属医院"}]
+1f:["$","section",null,{"className":"band band--brand contact","aria-labelledby":"contact-title","children":["$","div",null,{"className":"container split split--even","children":[["$","div",null,{"className":"split__text","children":[["$","h2",null,{"id":"contact-title","data-reveal":true,"children":"联系销售"}],["$","p",null,{"className":"lead","data-reveal":true,"style":{"--i":1},"children":"电话、邮箱、微信都直接到销售。来厂看货请提前打个电话。"}],["$","div",null,{"className":"cells","data-reveal":true,"style":{"--i":2},"children":[["$","a",null,{"className":"cell","href":"tel:+8617737712714","children":[["$","small",null,{"children":"销售电话"}],["$","strong",null,{"className":"num","children":"177 3771 2714"}]]}],["$","a",null,{"className":"cell","href":"mailto:2190205791@qq.com","children":[["$","small",null,{"children":"邮箱"}],["$","strong",null,{"children":"2190205791@qq.com"}]]}],["$","div",null,{"className":"cell cell--qr","children":[["$","div",null,{"children":[["$","small",null,{"children":"微信"}],["$","strong",null,{"children":"张兆嘉"}]]}],["$","img",null,{"src":"/photos/wechat-qr.jpg","alt":"销售微信二维码","width":88,"height":88,"loading":"lazy"}]]}]]}]]}],["$","div",null,{"className":"split__proof","children":[["$","div",null,{"className":"proof","children":["$","img",null,{"className":"","src":"/photos/factory-front.jpg","alt":"鑫泰铝业厂区正门与办公楼","width":1075,"height":663,"loading":"lazy"}]}],["$","dl",null,{"className":"contact__meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"地址"}],["$","dd",null,{"children":["河南省郑州市巩义市回郭镇电线电缆基地明珠大道北侧"," ",["$","a",null,{"className":"textlink","href":"https://uri.amap.com/search?keyword=%E6%B2%B3%E5%8D%97%E9%91%AB%E6%B3%B0%E9%93%9D%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&city=%E5%B7%A9%E4%B9%89","target":"_blank","rel":"noopener","children":"在高德地图中打开"}]]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"上班时间"}],["$","dd",null,{"children":"周一至周六 8:00 至 18:00"}]]}]]}]]}]]}]}]
+20:["$","script","script-0",{"src":"/_next/static/chunks/2bqokf3v_fvp8.js","async":true}]
+21:["$","$L2c",null,{"children":["$","$27",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+2b:true
+9:300
+2d:null
+9:C
+2a:0
+7:"$undefined"
+29:"$undefined"
+22:"$undefined"

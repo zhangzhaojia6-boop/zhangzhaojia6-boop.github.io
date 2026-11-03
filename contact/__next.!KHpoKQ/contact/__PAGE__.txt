@@ -1,0 +1,26 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:I[97367,["$4"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$4"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$4"],"$11"]
+13:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[[["$","section",null,{"className":"chapter chapter--night page-head","data-tone":"dark","children":["$","div",null,{"className":"container","children":[["$","h1",null,{"children":"联系我们"}],["$","p",null,{"className":"lead","children":"电话直接到销售。到厂看货请提前约。"}]]}]}],["$","section",null,{"className":"band band--brand contact","aria-labelledby":"contact-title","children":["$","div",null,{"className":"container split split--even","children":[["$","div",null,{"className":"split__text","children":[["$","h2",null,{"id":"contact-title","data-reveal":true,"children":"到厂参观"}],["$","p",null,{"className":"lead","data-reveal":true,"style":{"--i":1},"children":"电话、邮箱、微信都直接到销售。来厂看货请提前打个电话。"}],["$","div",null,{"className":"cells","data-reveal":true,"style":{"--i":2},"children":[["$","a",null,{"className":"cell","href":"tel:+8617737712714","children":[["$","small",null,{"children":"销售电话"}],["$","strong",null,{"className":"num","children":"177 3771 2714"}]]}],["$","a",null,{"className":"cell","href":"mailto:2190205791@qq.com","children":[["$","small",null,{"children":"邮箱"}],["$","strong",null,{"children":"2190205791@qq.com"}]]}],["$","div",null,{"className":"cell cell--qr","children":[["$","div",null,{"children":[["$","small",null,{"children":"微信"}],["$","strong",null,{"children":"张兆嘉"}]]}],["$","img",null,{"src":"/photos/wechat-qr.jpg","alt":"销售微信二维码","width":88,"height":88,"loading":"lazy"}]]}]]}]]}],["$","div",null,{"className":"split__proof","children":[["$","div",null,{"className":"proof","children":["$","img",null,{"className":"","src":"/photos/factory-front.jpg","alt":"鑫泰铝业厂区正门与办公楼","width":1075,"height":663,"loading":"lazy"}]}],["$","dl",null,{"className":"contact__meta","children":[["$","div",null,{"children":[["$","dt",null,{"children":"地址"}],["$","dd",null,{"children":["河南省郑州市巩义市回郭镇电线电缆基地明珠大道北侧"," ",["$","a",null,{"className":"textlink","href":"https://uri.amap.com/search?keyword=%E6%B2%B3%E5%8D%97%E9%91%AB%E6%B3%B0%E9%93%9D%E4%B8%9A%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&city=%E5%B7%A9%E4%B9%89","target":"_blank","rel":"noopener","children":"在高德地图中打开"}]]}]]}],["$","div",null,{"children":[["$","dt",null,{"children":"上班时间"}],["$","dd",null,{"children":"周一至周六 8:00 至 18:00"}]]}]]}]]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/2bqokf3v_fvp8.js","async":true}]],["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$9"}}]]
+2:[["children",{"s":"contact","h":64,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"(zh)","h":48,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":80,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"联系我们 · 鑫泰铝业"}],["$","meta","1",{"name":"description","content":"电话直接到销售。到厂看货请提前约。"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L13","3",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"miW8TFvMPgRvEwP68_VGt"}
+d:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+e:"$undefined"
